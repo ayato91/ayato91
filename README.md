@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@ayato91**
 - 👀 I’m interested in **App Development, Web Development and Cyber Security**
-- 🌱 I’m currently learning **Flutter and Javascript**
+- 🌱 I’m currently learning **Flutter**
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
