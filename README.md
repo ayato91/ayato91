@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## Hacktoberfest Participation
 [![An image of @ayato91's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayato91)](https://holopin.io/@ayato91)
 
-## Last But Not The Least...
+## Last But Not Least...
    Hey Visitor!👋
    Have a **Good Day** 😄
    
