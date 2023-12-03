@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![An image of @ayato91's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayato91)](https://holopin.io/@ayato91)
 
 ## GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=ayato91&count_private=true&show_icons=true&theme=tokyonight) 
+[![stats](https://github-readme-stats.vercel.app/api?username=ayato91&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Last But Not Least...
    Hey Visitor!👋 
