@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
 ## Hacktoberfest Participation
 [![An image of @ayato91's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayato91)](https://holopin.io/@ayato91)
 
+## GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=ayato91&count_private=true&show_icons=true&theme=tokyonight) 
+
 ## Last But Not Least...
-   Hey Visitor!👋
-   Have a **Good Day** 😄
-   
+   Hey Visitor!👋 
+   Have a **Good Day** 😄  
